@@ -1,0 +1,56 @@
+header {
+    margin:60px;
+    padding: 50px, 10px;
+    height: 120px;
+    text-align: center;
+    background-color: rgba(77, 88, 250, 0.825); 
+    color: white;
+ 
+}
+
+header img {
+    float: right;
+    border-radius: 5%;
+    width: 100px;        
+    height: 140px;       
+}
+
+contact-info {
+    padding:10px 60px;
+    text-align: bottom;
+    position: absolute;
+    bottom: 0;
+    heigt: 100%;
+    width: 100%;
+}
+
+h1,h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+body {
+    background-color: #8a97fab3;
+    padding: 0;
+    margin: 60px;
+    border:10px;
+}
+
+ table {
+     width: 100%;
+     border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 3px solid #050505;
+}
+th {
+background-color: rgba(77, 88, 250, 0.825);
+ }
+ 
